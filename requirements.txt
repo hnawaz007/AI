@@ -1,0 +1,6 @@
+Langchain_core
+Langchain_ollama
+langchain_community
+langchain_chroma
+sentence-transformers
+langchain-huggingface

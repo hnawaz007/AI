@@ -1,7 +1,7 @@
 
-# AI Projects by BI Insights Inc (https://www.youtube.com/@BiInsightsInc)
+# AI Projects by [BI Insights Inc](https://www.youtube.com/@BiInsightsInc)
 
-Welcome to the **AI** repository – a collection of AI, machine learning, and deep learning experiments, models, and utilities maintained by [@hnawaz007](https://github.com/hnawaz007). This repo is intended to serve as a personal lab for learning, experimenting, and building with artificial intelligence technologies. Link to YouTube(https://www.youtube.com/@BiInsightsInc)
+Welcome to the **AI** repository – a collection of AI, machine learning, and deep learning experiments, models, and utilities maintained by [@hnawaz007](https://github.com/hnawaz007). This repo is intended to serve as a personal lab for learning, experimenting, and building with artificial intelligence technologies. Link to [YouTube](https://www.youtube.com/@BiInsightsInc)
 
 ## 🧠 What's Inside?
 

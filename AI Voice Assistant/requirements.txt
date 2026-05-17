@@ -1,0 +1,12 @@
+ollama
+pywizlight
+langchain-core
+langchain-ollama
+openai-whisper
+sounddevice
+vosk
+kokoro
+duckduckgo-search
+pywhatkit
+requests
+newsapi-python
